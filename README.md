@@ -40,7 +40,7 @@ Led Agile sprint planning via Jira, managed continuous integration workflows, co
 **SaaS Marketing Platform**
 Multi-channel social media publishing dashboard, automated white-label reporting suite, and real-time keyword tracking modules built with Laravel and MySQL.
 
-**CIMET Lead Management System**
+**Lead Management System**
 An API-driven, multi-vertical lead management platform featuring dynamic affiliate sub-domain generation and real-time provider dashboards.
 
 **Real-Time Notification Systems**
